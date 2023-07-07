@@ -1,29 +1,67 @@
-# Hello, I'm Tanul Christian 👋
+```python
+from typing import Dict, List
 
-## A little bit about myself
-- 🔭 I’m a Full-Stack Django developer with 3-4 years of Python expertise and a genuine passion for crafting visually stunning, high-performing web applications. I'm a relentless learner, eager to embrace and conquer new technologies.
 
-- 💼 Currently working as a Freelance Full-stack Engineer, supercharging web applications and mentoring junior developers during my free time.
+class FullStackDeveloper:
+    """Forgive me for this, but it was fun to do."""
+    def __init__(self):
+        # About
+        self.name: str = "Tanul Christian"
+        self.role: str = "Full-Stack Python Developer (Django)"
+        self.email: str = "tanulchristian@gmail.com"
+        self.years_of_experience: int = 5
+        self.hard_skills: Dict[str, str] = {
+            "Python": "Fairly advanced having worked with it for 5 years for web development, data science, and automation",
+            "Django": "Delved into Django for up to 10 hours every single day for the last 2 years passionately working on a project all by myself",
+            "JavaScript frameworks": "Explored both React and Alpine.JS, but ultimately chose HTMX and Hyperscript due to their flawless compatibility with Django.",
+            "Docker": "Used Docker and Docker Compose for all my projects to ensure consistency across environments",
+            "Git": "Used Git for all my projects and have a good understanding of the Git workflow",
+            "Linux": "Deployed all my projects on Linux servers and have a good understanding of the Linux ecosystem",
+        }
+        self.soft_skills: Dict[str, str] = {
+            "Communication": "I'm a naturally extroverted person and I enjoy communicating with others",
+            "Self-Management": "I'm a self-motivated person and I enjoy working on my own although I'm also a good team player",
+            "Problem-solving": "I enjoy solving problems and I'm good at it",
+            "Adaptability": "I'm a quick learner and I'm able to adapt to new situations easily",
+            "Work Ethic": "I'm willing to put in the hours to get the job done and I'm not afraid of hard work",
+        }
+        self.languages: List[str] = ["English", "Spanish (A2)", "Romanian"]
+        
+        # Education
+        self.bachelors_degree = None  # I'm self-taught
+        
+        # Projects
+        self.work_projects: Dict[str, str] = {
+            "ERP Systems": "A Django-based ERP system for a Clinical Research Organization",
+            "Home Assistant": "A custom Home Assistant implementation for a client with solar panels",
+        }
+        self.personal_projects: Dict[str, str] = {
+                "Audio Transcription Tool": "An audio transcript summarization tool using OpenAI API and Whisper model",
+                "Raspbery Pi Assistant": "A Raspberry Pi assistant powered by the GPT API and MicroPython",
+                "Bible App": "A GPT-powered app designed to simplify interaction with the Bible",
+        }
 
-- 💬 Ask me about Python, Django, JavaScript frameworks, Docker, Git, Linux, and robotics.
+	
+        # Interests
+        self.topics_of_interest: Dict[str, str] = {
+            "LLMs": "Large Language Models (LLMs) and Prompt Engineering",
+            "GPT-4": "Productivity & workflow optimization using GPT-4 API & automation",
+            "Nutrition": "Understanding the science behind healthy eating habits and optimizing for performance",
+            "Fitness": "Exploring different fitness regimens for health, longevity, and performance",
+            "Tech": "Staying on top of emerging trends and technologies, particularly in AI and Web Development",
+            "Biology": "Delving into genetics, microbiome, and neuroscience to understand the human body and mind",
+            # "Ultimate Frisbee": "Not that good yet, though",
+        }
+        self.inspired_by: Dict[str, str] = {
+            "Elon Musk": "For his relentless pursuit of innovation and his ability to think big",
+            "Andrew Huberman": "For his ability to explain complex topics in a simple manner",
+            "Jordan Peterson": "For his ability to articulate his thoughts and his emphasis on personal responsibility",
+            "Alex Hormozi": "For his good work ethic and his emphasis on giving to others and helping them grow",
+            "Lex Fridman": "For his humility and his ability to ask the right questions",
+        }
 
-- 📫 You can reach me at tanulchristian@gmail.com
-
-- 🔭 I’m currently wearing multiple hats and juggling quite a few projects including:
-    - A Django-based ERP system, streamlining the business processes of a Clinical Research Organization.
-    - A custom Home Assistant implementation for optimizing energy usage for a client with solar panels. 
-    - Contract work for a research organization, where I specialized in machine learning by developing a model for pimple classification.
-    - An audio transcript summarization tool utilizing OpenAI API and Whisper model for enhancing brainstorming sessions.
-    - A Raspberry Pi assistant incorporating the power of the GPT API and MicroPython
-    - A GPT-powered app designed to simplify the interaction with the Bible.
-
-- 🌱 I’m currently on a learning spree, diving headfirst into:
-    - The bleeding edge of web development, always staying updated with the newest frameworks and technologies.
-    - Large Language Models (LLMs) and Prompt Engineering, exploring their potential to revolutionize various sectors.
-    - Discovering and mastering new tools based on GPT-4 API, to automate as much of my work as possible.
-
-- 👯 I’m looking to collaborate with modern start-ups and innovative teams. If you have exciting projects that could use a dedicated full-stack Django developer, let's connect! I’m passionate about utilizing my skills to help businesses flourish, while also expecting fair compensation for my work.
-
-- 🤔 I’m looking for help with social media marketing and finding contractors. As a developer, my time is best spent coding and creating. If you have expertise in these areas, I'd love to hear from you!
-
-- 🌍 I will be attending EuroPython 2023 as a volunteer and would like to host a sprint to further the progress of the AutoGPT repository.
+        # Volunteering
+        self.event_participation: Dict[str, str] = {
+            "EuroPython 2023": "Volunteering for the first time at a Python conference.",
+        }
+```
