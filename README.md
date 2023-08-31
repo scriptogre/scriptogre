@@ -15,7 +15,7 @@ A passionate Full-Stack Python Developer, having a broad range of both hard and 
 
 ## Hard Skills
 * Python: Fairly advanced, having worked with it for 5 years for web development, data science, and automation.
-* Django: Immersed in Django for 10 daily hours over the last 2 years, working solo on a passionate project.
+* Django: Immersed in Django for 10 daily hours over the last 2-3 years, working solo on a passionate project.
 * JavaScript frameworks: After trialing React, favored HTMX and Hyperscript for superior Django integration.
 * Docker: Used Docker and Docker Compose for all my projects to ensure consistency across environments.
 * Git: Used Git for all my projects and have a good understanding of the Git workflow.
