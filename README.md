@@ -28,15 +28,6 @@ A passionate Full-Stack Python Developer, having a broad range of both hard and 
 * Adaptability: A quick learner, able to adapt to new situations easily.
 * Work Ethic: Willing to put in the hours to get the job done, not afraid of hard work.
 
-## Projects
-* Work Projects:
-    * ERP Systems: A Django-based ERP system for a Clinical Research Organization.
-    * Home Assistant: A custom Home Assistant implementation for a client with solar panels.
-* Personal Projects:
-    * Audio Transcription Tool: An audio transcript summarization tool using OpenAI API and Whisper model.
-    * Raspberry Pi Assistant: A Raspberry Pi assistant powered by the GPT API and MicroPython.
-    * Bible App: A GPT-powered app designed to simplify interaction with the Bible.
-
 ## Interests
 * LLMs: Large Language Models (LLMs) and Prompt Engineering.
 * GPT-4: Productivity & workflow optimization using GPT-4 API & automation.
