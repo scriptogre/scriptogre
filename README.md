@@ -1,6 +1,6 @@
 # Tanul Christian
 
-## 🎯 Full-Stack Python Developer (Django)
+## 🎯 Full-Stack Developer
 
 📧 Email: [tanulchristian@gmail.com](mailto:tanulchristian@gmail.com)
 
