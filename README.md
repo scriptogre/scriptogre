@@ -11,37 +11,49 @@
 🗣️ Languages: English, Spanish (A2), Romanian
 
 ## About
-A passionate Full-Stack Python Developer, having a broad range of both hard and soft skills, and experience in a variety of projects. Eager to learn new things and constantly improve my abilities.
+Hi, I'm Chris.
+
+I'm good at writing code, and not "about" sections.
+
+I would've previously called myself a Python developer, but I suppose software developer is a more fitting now. I've extended my interest towards both the JavaScript realm and the Go land.
+
+I'm a fan of underdog technologies such as HTMX & Svelte. I like getting stuff done quickly.
+
+I've also become particularly good at building UI/UXs in TailwindCSS.
+
+I teach web development live in my city. Check out https://lessons.tanulchristian.dev/
+
+I try to provide free educational content from my journey as self-taught full-stack developer. Check out https://pyoneers.dev/
+
+I do freelance projects, but I'm not really looking for a job - unless it's a perfect match.
+
+Read more at https://tanulchristian.dev/
 
 ## Hard Skills
-* Python: Fairly advanced, having worked with it for 5 years for web development, data science, and automation.
-* Django: Immersed in Django for 10 daily hours over the last 2-3 years, working solo on a passionate project.
-* JavaScript frameworks: After trialing React, favored HTMX and Hyperscript for superior Django integration.
-* Docker: Used Docker and Docker Compose for all my projects to ensure consistency across environments.
-* Git: Used Git for all my projects and have a good understanding of the Git workflow.
-* Linux: Deployed all my projects on Linux servers and have a good understanding of the Linux ecosystem.
+* Python: Advanced proficiency (5 years experience in web development & automation).
+* Django: Extensive experience (2-3 years), built several backend-intensive end-to-end projects by myself.
+* JavaScript frameworks: Svelte, React, Alpine.JS, jQuery - worked with them, love some (Svelte) more than others (React). Would rather work with HTMX any day, though.
+* Docker: I containerize one-off scripts. Enough said.
+* Git: Obviously.
+* Linux: Professional alias creator.
 
 ## Soft Skills
-* Communication: Naturally extroverted, I enjoy communicating with others.
-* Self-Management: Self-motivated, I enjoy working independently, though I'm also a good team player.
-* Problem-solving: I enjoy solving problems and I'm good at it.
+* Communication: Extroverted by default, easily becoming enthusiastic, difficult to shut up.
+* Self-Management: Self-motivated & self-taught.
+* Problem-solving: I seek solutions even when all my fiancee needs is for me to listen.
 * Adaptability: A quick learner, able to adapt to new situations easily.
-* Work Ethic: Willing to put in the hours to get the job done, not afraid of hard work.
+* Work Ethic: Can't go to sleep unless I've reached the mental milestone I proposed to myself.
 
 ## Interests
-* LLMs: Large Language Models (LLMs) and Prompt Engineering.
-* GPT-4: Productivity & workflow optimization using GPT-4 API & automation.
-* Nutrition: Understanding the science behind healthy eating habits and optimizing for performance.
-* Fitness: Exploring different fitness regimens for health, longevity, and performance.
-* Tech: Staying on top of emerging trends and technologies, particularly in AI and Web Development.
-* Biology: Delving into genetics, microbiome, and neuroscience to understand the human body and mind.
+LLMs + prompt engineering, nutrition, fitness, psychology & biochemistry.
 
 ## Inspired By
-* Elon Musk: For his relentless pursuit of innovation and his ability to think big.
-* Andrew Huberman: For his ability to explain complex topics in a simple manner.
-* Jordan Peterson: For his ability to articulate his thoughts and his emphasis on personal responsibility.
-* Alex Hormozi: For his good work ethic and his emphasis on giving to others and helping them grow.
-* Lex Fridman: For his humility and his ability to ask the right questions.
+* Elon Musk: He thinks big.
+* Andrew Huberman: He turns complex to simple.
+* Jordan Peterson: He articulates.
+* Alex Hormozi: He works relentlessly & shares with others.
+* Lex Fridman: He's smart & humble.
 
 ## Volunteering
-* EuroPython 2023: Volunteering for the first time at a Python conference.
+* EuroPython 2023: Volunteered at a Python conference. Meet many cool people.
+ 
