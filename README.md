@@ -34,6 +34,7 @@ Read more at https://tanulchristian.dev/
 * Django: Extensive experience (2-3 years), built several backend-intensive end-to-end projects by myself.
 * JavaScript frameworks: Svelte, React, Alpine.JS, jQuery - worked with them, love some (Svelte) more than others (React). Would rather work with HTMX any day, though.
 * Docker: I containerize one-off scripts. Enough said.
+* Terraform: Love at first apply.
 * Git: Obviously.
 * Linux: Professional alias creator.
 
