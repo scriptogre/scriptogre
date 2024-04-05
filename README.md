@@ -21,7 +21,7 @@ I'm a fan of underdog technologies such as HTMX & Svelte. I like getting stuff d
 
 I've also become particularly good at building UI/UXs in TailwindCSS.
 
-I teach web development live in my city. Check out https://lessons.tanulchristian.dev/
+I teach web development in my city. Check out https://lessons.tanulchristian.dev/
 
 I try to provide free educational content from my journey as self-taught full-stack developer. Check out https://pyoneers.dev/
 
