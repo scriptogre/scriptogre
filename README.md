@@ -15,7 +15,7 @@ Hi, I'm Chris.
 
 I'm good at writing code, and not "about" sections.
 
-I would've previously called myself a Python developer, but I suppose software developer is a more fitting now. I've extended my interest towards both the JavaScript realm and the Go land.
+I would've previously called myself a Python developer, but I suppose software developer is a more fitting title now. I've extended my interest towards both the JavaScript realm and the Go land.
 
 I'm a fan of underdog technologies such as HTMX & Svelte. I like getting stuff done quickly.
 
