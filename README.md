@@ -1,17 +1,7 @@
 # Tanul Christian
 
-## 🎯 Full-Stack Developer
-
-📧 Email: [tanulchristian@gmail.com](mailto:tanulchristian@gmail.com)
-
-⏳ Years of Experience: 5
-
-🔬 Education: Self-Taught
-
-🗣️ Languages: English, Spanish (A2), Romanian
-
 ## About
-Hi, I'm Chris.
+Hi, I'm Chris, a full-stack developer with 5 years of experience.
 
 I'm good at writing code, and not "about" sections.
 
@@ -57,4 +47,6 @@ LLMs + prompt engineering, nutrition, fitness, psychology & biochemistry.
 
 ## Volunteering
 * EuroPython 2023: Volunteered at a Python conference. Meet many cool people.
- 
+
+## Contact
+📧 Email: [tanulchristian@gmail.com](mailto:tanulchristian@gmail.com)
