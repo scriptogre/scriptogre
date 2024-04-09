@@ -15,7 +15,7 @@ I teach web development in my city. Check out https://lessons.tanulchristian.dev
 
 <p>
   <a href="https://lessons.tanulchristian.dev">
-    <img src="lessons-tanulchristian-dev.webp?raw=true" width="350" title="In-Person Lessons" style="border-radius:1rem;">
+    <img src="lessons-tanulchristian-dev.webp?raw=true" width="550" title="In-Person Lessons" styles="border-radius:1rem;">
   </a>
 </p>
   
