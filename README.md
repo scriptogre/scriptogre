@@ -3,7 +3,7 @@
 ## About
 Hi, I'm Chris, a full-stack developer with 5 years of experience.
 
-I'm good at writing code, and not "about" sections.
+I'm good at writing code, but not "about" sections.
 
 I would've previously called myself a Python developer, but I suppose software developer is a more fitting title now. I've extended my interest towards both the JavaScript realm and the Go land.
 
