@@ -12,7 +12,11 @@ I'm a fan of underdog technologies such as HTMX & Svelte. I like getting stuff d
 I've also become particularly good at building UI/UXs in TailwindCSS.
 
 I teach web development in my city. Check out https://lessons.tanulchristian.dev/
-![In-Person Lessons](lessons-tanulchristian-dev.webp?raw=true "In-Person Lessons")
+
+<p>
+  <img src="lessons-tanulchristian-dev.webp?raw=true" width="350" title="In-Person Lessons">
+</p>
+  
 I try to provide free educational content from my journey as self-taught full-stack developer. Check out https://pyoneers.dev/
 
 I do freelance projects, but I'm not really looking for a job - unless it's a perfect match.
