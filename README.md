@@ -21,7 +21,13 @@ I teach web development in my city. Check out https://lessons.tanulchristian.dev
   
 I try to provide free educational content from my journey as self-taught full-stack developer. Check out https://pyoneers.dev/
 
-I do freelance projects, but I'm not really looking for a job - unless it's a perfect match.
+<p>
+  <a href="https://pyoneers.dev">
+    <img src="pyoneers-dev.webp?raw=true" width="550" title="Pyoneers">
+  </a>
+</p>
+
+I do freelance projects, but I'm not especially looking for a job - unless it's a perfect match.
 
 Read more at https://tanulchristian.dev/
 
