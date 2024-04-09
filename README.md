@@ -14,7 +14,9 @@ I've also become particularly good at building UI/UXs in TailwindCSS.
 I teach web development in my city. Check out https://lessons.tanulchristian.dev/
 
 <p>
-  <img src="lessons-tanulchristian-dev.webp?raw=true" width="350" title="In-Person Lessons">
+  <a href="https://lessons.tanulchristian.dev">
+    <img src="lessons-tanulchristian-dev.webp?raw=true" width="350" title="In-Person Lessons" style="border-radius:1rem;">
+  </a>
 </p>
   
 I try to provide free educational content from my journey as self-taught full-stack developer. Check out https://pyoneers.dev/
