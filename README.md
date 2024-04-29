@@ -3,7 +3,7 @@
 ## About
 Hi, I'm Chris, a full-stack developer with 5 years of experience.
 
-I'm good at writing code, but not "about" sections.
+I'm better at writing code than "about" sections.
 
 I would've previously called myself a Python developer, but I suppose software developer is a more fitting title now. I've extended my interest towards both the JavaScript realm and the Go land.
 
@@ -53,12 +53,12 @@ LLMs + prompt engineering, nutrition, fitness, psychology & biochemistry.
 ## Inspired By
 * Elon Musk: He thinks big.
 * Andrew Huberman: He turns complex to simple.
-* Jordan Peterson: He articulates.
+* Jordan Peterson: He articulates things well.
 * Alex Hormozi: He works relentlessly & shares with others.
 * Lex Fridman: He's smart & humble.
 
 ## Volunteering
-* EuroPython 2023: Volunteered at a Python conference. Meet many cool people.
+* EuroPython 2023: Volunteered at a Python conference. Met many cool people.
 
 ## Contact
 📧 Email: [tanulchristian@gmail.com](mailto:tanulchristian@gmail.com)
