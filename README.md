@@ -50,13 +50,6 @@ Read more at https://tanulchristian.dev/
 ## Interests
 LLMs + prompt engineering, nutrition, fitness, psychology & biochemistry.
 
-## Inspired By
-* Elon Musk: He thinks big.
-* Andrew Huberman: He turns complex to simple.
-* Jordan Peterson: He articulates things well.
-* Alex Hormozi: He works relentlessly & shares with others.
-* Lex Fridman: He's smart & humble.
-
 ## Volunteering
 * EuroPython 2023: Volunteered at a Python conference. Met many cool people.
 
