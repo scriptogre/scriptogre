@@ -1,51 +1,11 @@
 # Tanul Christian
 
 ## About
-Hi, I'm Chris, a full-stack developer with 5 years of experience.
+Hi. I'm Chris, the Django + HTMX + TailwindCSS guy.
 
-I'm better at writing code than "about" sections.
-
-I would've previously called myself a Python developer, but I suppose software developer is a more fitting title now. I've extended my interest towards both the JavaScript realm and the Go land.
-
-I'm a fan of underdog technologies such as HTMX & Svelte. I like getting stuff done quickly.
-
-I've also become particularly good at building UI/UXs in TailwindCSS.
-
-I teach web development in my city. Check out https://lessons.tanulchristian.dev/
-
-<p>
-  <a href="https://lessons.tanulchristian.dev">
-    <img src="lessons-tanulchristian-dev.webp?raw=true" width="550" title="In-Person Lessons">
-  </a>
-</p>
-  
-I try to provide free educational content from my journey as self-taught full-stack developer. Check out https://pyoneers.dev/
-
-<p>
-  <a href="https://pyoneers.dev">
-    <img src="pyoneers-dev.webp?raw=true" width="550" title="Pyoneers">
-  </a>
-</p>
-
-I do freelance projects, but I'm not especially looking for a job - unless it's a perfect match.
+I'm a fan of underdog technologies and finding unorthodox ways of doing things. I like getting things done quickly, but I’d rather do something well than just fast.
 
 Read more at https://tanulchristian.dev/
-
-## Hard Skills
-* Python: Advanced proficiency (5 years experience in web development & automation).
-* Django: Extensive experience (2-3 years), built several backend-intensive end-to-end projects by myself.
-* JavaScript frameworks: Svelte, React, Alpine.JS, jQuery - worked with them, love some (Svelte) more than others (React). Would rather work with HTMX any day, though.
-* Docker: I containerize one-off scripts. Enough said.
-* Terraform: Love at first apply.
-* Git: Obviously.
-* Linux: Professional alias creator.
-
-## Soft Skills
-* Communication: Extroverted by default, easily becoming enthusiastic, difficult to shut up.
-* Self-Management: Self-motivated & self-taught.
-* Problem-solving: I seek solutions even when all my fiancee needs is for me to listen.
-* Adaptability: A quick learner, able to adapt to new situations easily.
-* Work Ethic: Can't go to sleep unless I've reached the mental milestone I proposed to myself.
 
 ## Interests
 LLMs + prompt engineering, nutrition, fitness, psychology & biochemistry.
