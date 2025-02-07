@@ -13,4 +13,4 @@ LLMs + prompt engineering, nutrition, fitness, psychology & biochemistry.
 * EuroPython 2023: Volunteered at a Python conference. Met many cool people.
 
 ## Contact
-📧 Email: [tanulchristian@gmail.com](mailto:tanulchristian@gmail.com)
+📧 Email: [contact@tanulchristian.com](mailto:contact@tanulchristian.com)
