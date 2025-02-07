@@ -1,7 +1,6 @@
 # Tanul Christian
 
-## About
-Hi. I'm Chris, the Django + HTMX + TailwindCSS guy.
+Hi. I'm the Django + HTMX + TailwindCSS guy.
 
 I'm a fan of underdog technologies and finding unorthodox ways of doing things. I like getting things done quickly, but I’d rather do something well than just fast.
 
