@@ -1,4 +1,4 @@
-# Tanul Christian
+# Christian Tanul
 
 Hi. I'm the Django + HTMX + TailwindCSS guy.
 
