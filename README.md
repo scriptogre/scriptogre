@@ -1,16 +1,109 @@
 # Christian Tanul
 
-Hi. I'm the Django + HTMX + TailwindCSS guy.
+Hi.
 
-I'm a fan of underdog technologies and finding unorthodox ways of doing things. I like getting things done quickly, but I’d rather do something well than just fast.
+I've been doing full-stack development for 7 years.
 
-Read more at https://tanulchristian.dev/
+I currently work as a consultant for Expert Systems, a company from New Mexico, USA.
 
-## Interests
-LLMs + prompt engineering, nutrition, fitness, psychology & biochemistry.
+As part of a 3-person development team, I design and build web applications that serve ML models and LLMs for drug research. I also handle the full technical stack, from infrastructure and DevOps to managing our self-hosted services and cloud deployments. 
 
-## Volunteering
-* EuroPython 2023: Volunteered at a Python conference. Met many cool people.
+I enjoy the end-to-end ownership.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/531efdbf-4874-402c-99f7-03c6aaddcff3" />
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/327132c4-cfe0-4d96-8def-46ddd88c002c" />
+
+### Technical Philosophy
+
+<img width="400" alt="Grug Brained Developer" src="https://github.com/user-attachments/assets/fcd5be1b-d0df-465f-a4b7-ae01f2bc35ed" />
+
+*complexity bad*
+
+I gravitate toward simpler, overlooked technologies that solve problems elegantly.
+
+I'll choose [htmx](https://htmx.org/) over React, [Caddy](https://caddyserver.com/) over Nginx, [Tailscale](https://tailscale.com/) over classic VPN servers, and CSS-only solutions over JavaScript, when they fit.
+
+I focus obsessively on quality details. I've lost sleep over misaligned UI elements and unintuitive code architecture. This pushes me to constantly simplify and refactor.
+
+Recently, I consolidated 9 separate codebases into a single monolith, reducing the number of LOC by ~90%. I also optimized our ML model Docker images from 120+ GB total (some 17+ GB each) down to 2 GB per image.
+
+Making complex, bloated systems and making them clean and maintainable is the kind of work that energizes me.
+
+## Personal Projects
+
+<img width="800" alt="HomeLab Devices" src="https://github.com/user-attachments/assets/7cb5f857-81d4-48a4-bd42-41ec7687ef70" />
+
+> Synology DS923+ & Raspberry Pi 5 running from my cabinet
+
+I run a homelab where I host my personal cloud: files, photos, calendar, contacts, along with DNS and media servers. 
+
+I reduced ~$100/month worth of subscriptions, learned a lot about system administration, and learned to appreciate the independence and privacy you get from self-hosting.
+
+It's a time sink, but I enjoy (most of) that time.
+
+I also use it to self-host my publicly available projects:
+
+#### **intreabalegea.ro**
+
+<a href="https://intreabalegea.ro"><img width="800" alt="Intreaba Legea Landing Page" src="https://github.com/user-attachments/assets/1094287c-7dc6-4ff0-a981-f325c48cd001" /></a>
+
+One of these projects is [intreabalegea.ro](https://intreabalegea.ro), an LLM-powered web app that provides legal guidance for Romanians. 
+
+What started as a personal project to learn Golang has grown into a team effort with 3 developers, which I continue to lead and maintain.
+
+#### **roastroulette.io**
+
+<a href="https://roastroulette.io"><img width="800" alt="Roast Roulette Landing Page" src="https://github.com/user-attachments/assets/30069578-866a-4e48-a82a-78af0436ff63" /></a>
+
+Another project is [roastroulette.io](https://roastroulette.io), an [open-source](https://github.com/scriptogre/roast-roulette) party game where players upload photos to get roasted by an LLM. 
+
+I built this in a week during vacation because I wanted something fun to play with friends on weekends. 
+
+Some of the roasts are corny, but it also spits gems at times:
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6736f41d-8641-4f19-804e-a08d32e98e16" />
+
+*Note: Still in development, expect bugs.*
+
+## Speaking & Community
+
+
+### Workshop @ DjangoCon 2024: Functional Chatbots
+
+<img width="400" alt="DjangoCon 2024 Workshop" src="https://github.com/user-attachments/assets/8c410a92-9756-43ad-8183-cc8b38c3c295" />
+
+I presented a workshop on connecting LLMs to web applications. 
+
+The workshop repository includes 2 months of preparation with multiple checkpoint branches and detailed instructions.
+
+- **Repository**: [github.com/scriptogre/functional-chatbots](http://github.com/scriptogre/functional-chatbots)
+- **Video**: [YouTube](https://www.youtube.com/watch?v=jtjMR47AAd8)
+
+
+### Lightning Talk @ DjangoCon 2025: Roast Roulette Live Demo
+
+Delivered a lightning talk featuring a live demo of Roast Roulette with 70 audience members playing simultaneously. 
+
+<img width="400" alt="DjangoCon 2025 Lightning Talk" src="https://github.com/user-attachments/assets/4f13c8d1-e6a6-4f48-8c7d-260b0fac31a2" />
+
+The game's first public debut.
+
+
+## Beyond Code
+
+While tech dominates my life, I do occasionally touch grass. 
+
+Here are some quick facts about me:
+- I've been (happily) married for **1 year**
+- My longest water fast was **6 days**
+- I can talk about nutrition for 3 hours **straight**
+- I find the **Big Five Aspects** fascinating
+- I'm 20 pounds away from the **1000 Pound Club** (strength training)
+- I'm obsessed with an old & forgotten subgenre called **Intelligent Drum & Bass** (recently bought intelligentdnb.uk domain, still planning what to build)
+- I was born Christian (name & religion), turned atheist, then turned Christian (Evangelical Theistic Evolutionist) again
 
 ## Contact
 📧 Email: [contact@tanulchristian.com](mailto:contact@tanulchristian.com)
+
+For my latest work or potential collaborations, feel free to reach out.
