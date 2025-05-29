@@ -85,7 +85,7 @@ The workshop repository includes 2 months of preparation with multiple checkpoin
 
 <img width="400" alt="PyCON SK 2024 Lightning" src="https://github.com/user-attachments/assets/c06f9fb3-82e7-40e8-a305-eb2a6e408f54" />
 
-Presented how easily you can prototype a functional UI, even as a non-developer, using ChatGPT and Streamlit.
+Presented how easily you can prototype a functional UI, even as a non-developer, using ChatGPT and [Streamlit](https://streamlit.io/).
 
 
 ### Lightning Talk @ DjangoCon 2025: Roast Roulette Live Demo
