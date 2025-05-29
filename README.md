@@ -1,6 +1,6 @@
 # Christian Tanul
 
-Hi.
+Hi, I'm Chris.
 
 I've been doing full-stack development for 7 years.
 
