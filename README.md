@@ -73,7 +73,7 @@ Some of the roasts are corny, but it also spits gems at times:
 
 <img width="400" alt="DjangoCon 2024 Workshop" src="https://github.com/user-attachments/assets/8c410a92-9756-43ad-8183-cc8b38c3c295" />
 
-I presented a workshop on connecting LLMs to web applications. 
+Presented a workshop on connecting LLMs to web applications. 
 
 The workshop repository includes 2 months of preparation with multiple checkpoint branches and detailed instructions.
 
@@ -81,11 +81,18 @@ The workshop repository includes 2 months of preparation with multiple checkpoin
 - **Video**: [YouTube](https://www.youtube.com/watch?v=jtjMR47AAd8)
 
 
+### Lightning Talk @ PyCON SK 2024: ChatGPT + Streamlit
+
+<img width="400" alt="PyCON SK 2024 Lightning" src="https://github.com/user-attachments/assets/c06f9fb3-82e7-40e8-a305-eb2a6e408f54" />
+
+Presented how easily you can prototype a functional UI, even as a non-developer, using ChatGPT and Streamlit.
+
+
 ### Lightning Talk @ DjangoCon 2025: Roast Roulette Live Demo
 
-Delivered a lightning talk featuring a live demo of Roast Roulette with 70 audience members playing simultaneously. 
-
 <img width="400" alt="DjangoCon 2025 Lightning Talk" src="https://github.com/user-attachments/assets/4f13c8d1-e6a6-4f48-8c7d-260b0fac31a2" />
+
+Played a game of Roast Roulette with 70 members from the audience.
 
 The game's first public debut.
 
