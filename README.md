@@ -103,6 +103,12 @@ Here are some quick facts about me:
 - I'm obsessed with an old & forgotten subgenre called **Intelligent Drum & Bass** (recently bought intelligentdnb.uk domain, still planning what to build)
 - I was born Christian (name & religion), turned atheist, then turned Christian (Evangelical Theistic Evolutionist) again
 
+<a href="https://www.youtube.com/watch?v=MfTb7U9CfeA">
+  <img width="200" alt="Workstation" src="https://github.com/user-attachments/assets/26f1bb09-9e0d-4db4-b352-7dd26a4a0af5" />
+</a>
+
+> This is where I work. Used AI to remove some stuff.
+
 ## Contact
 📧 Email: [contact@tanulchristian.com](mailto:contact@tanulchristian.com)
 
