@@ -26,9 +26,9 @@ I'll choose [htmx](https://htmx.org/) over React, [Caddy](https://caddyserver.co
 
 I focus obsessively on quality details. I've lost sleep over misaligned UI elements and unintuitive code architecture. This pushes me to constantly simplify and refactor.
 
-Recently, I consolidated 9 separate codebases into a single monolith, reducing the number of LOC by ~90%. I also optimized our ML model Docker images from 120+ GB total (some 17+ GB each) down to 2 GB per image.
+Recently, I consolidated a web platform with 9 separate ML model servers into a single monolith, maintaining full functionality while reducing the codebase by ~80%. That felt good.
 
-Making complex, bloated systems and making them clean and maintainable is the kind of work that energizes me.
+Transforming complex, bloated systems into clean, maintainable code is the kind of work that energizes me.
 
 ## Personal Projects
 
