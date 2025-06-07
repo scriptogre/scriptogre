@@ -104,17 +104,20 @@ While tech dominates my life, I do occasionally touch grass.
 Here are some quick facts about me:
 - I've been (happily) married for **1 year**
 - My longest water fast was **6 days**
-- I can talk about nutrition for 3 hours **straight**
+- I can talk about nutrition for **3 hours** straight
 - I find the **Big Five Aspects** fascinating
 - I'm 20 pounds away from the **1000 Pound Club** (strength training)
 - I'm obsessed with an old & forgotten subgenre called **Intelligent Drum & Bass** (recently bought intelligentdnb.uk domain, still planning what to build)
-- I was born Christian (name & religion), turned atheist, then turned Christian (Evangelical Theistic Evolutionist) again
+
+If it is technically feasible for a bunch of evolved monkeys to eventually create Artificial Superintelligence (ASI)... 
+
+Then the reality of a higher intelligence (**God**) is beyond question for me.
 
 <a href="https://www.youtube.com/watch?v=MfTb7U9CfeA">
   <img width="200" alt="Workstation" src="https://github.com/user-attachments/assets/26f1bb09-9e0d-4db4-b352-7dd26a4a0af5" />
 </a>
 
-> This is where I work. Used AI to remove some stuff.
+> This is how I spend the majority of my life
 
 ## Contact
 📧 Email: [contact@tanulchristian.com](mailto:contact@tanulchristian.com)
