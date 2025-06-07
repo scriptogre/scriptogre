@@ -117,7 +117,7 @@ Then the reality of a higher intelligence (**God**) is beyond question for me.
   <img width="200" alt="Workstation" src="https://github.com/user-attachments/assets/26f1bb09-9e0d-4db4-b352-7dd26a4a0af5" />
 </a>
 
-> This is how I spend the majority of my time
+> This is how I happily spend the majority of my time
 
 ## Contact
 📧 Email: [contact@tanulchristian.com](mailto:contact@tanulchristian.com)
