@@ -116,6 +116,6 @@ If it is technically feasible for a bunch of evolved monkeys to eventually creat
 > This is how I happily spend the majority of my time
 
 ## Contact
-📧 Email: [contact@tanulchristian.com](mailto:contact@tanulchristian.com)
+📧 Email: [contact@christiantanul.com](mailto:contact@christiantanul.com)
 
 For my latest work or potential collaborations, feel free to reach out.
