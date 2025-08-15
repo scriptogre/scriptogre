@@ -105,10 +105,9 @@ Here are some quick facts about me:
 - I can talk about nutrition for **3 hours** straight
 - I find the **Big Five Aspects** fascinating
 - I'm obsessed with an old & forgotten subgenre called **Intelligent Drum & Bass** (recently bought intelligentdnb.uk domain, still planning what to build)
+- I want to build something that outlasts me
 
-If it is technically feasible for a bunch of evolved monkeys to eventually create Artificial Superintelligence (ASI)... 
-
-Then the reality of a higher intelligence (**God**) is beyond question for me.
+If it is technically feasible for a bunch of evolved monkeys to eventually create Artificial Superintelligence (ASI)... Then the reality of a higher intelligence (**God**) is beyond question for me.
 
 <a href="https://www.youtube.com/watch?v=MfTb7U9CfeA">
   <img width="200" alt="Workstation" src="https://github.com/user-attachments/assets/26f1bb09-9e0d-4db4-b352-7dd26a4a0af5" />
