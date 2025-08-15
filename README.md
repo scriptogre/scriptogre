@@ -6,7 +6,7 @@ I've been doing full-stack development for 7 years.
 
 I currently work as a consultant for Expert Systems, a company from New Mexico, USA.
 
-As part of a 3-person development team, I design and build web applications that serve ML models and LLMs for drug research. I also handle the full technical stack, from infrastructure and DevOps to managing our self-hosted services and cloud deployments. 
+I design & build web applications that serve ML models and LLMs for drug research. I also handle the infrastructure and DevOps for managing our self-hosted services and cloud deployments. 
 
 I enjoy the end-to-end ownership.
 
