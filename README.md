@@ -4,11 +4,9 @@ Hi, I'm Chris.
 
 I've been doing full-stack development for 7 years.
 
-I currently work as a consultant for Expert Systems, a company from New Mexico, USA.
+I design & build web applications that often times serve ML or LLM models for different tasks. I also handle infrastructure & DevOps, managing self-hosted services and cloud deployments. 
 
-I design & build web applications that serve ML models and LLMs for drug research. I also handle the infrastructure and DevOps for managing our self-hosted services and cloud deployments. 
-
-I enjoy the end-to-end ownership.
+I enjoy end-to-end ownership.
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/531efdbf-4874-402c-99f7-03c6aaddcff3" />
 
