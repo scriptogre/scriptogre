@@ -104,7 +104,6 @@ Here are some quick facts about me:
 - My longest water fast was **6 days**
 - I can talk about nutrition for **3 hours** straight
 - I find the **Big Five Aspects** fascinating
-- I'm 20 pounds away from the **1000 Pound Club** (strength training)
 - I'm obsessed with an old & forgotten subgenre called **Intelligent Drum & Bass** (recently bought intelligentdnb.uk domain, still planning what to build)
 
 If it is technically feasible for a bunch of evolved monkeys to eventually create Artificial Superintelligence (ASI)... 
