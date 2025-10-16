@@ -2,31 +2,27 @@
 
 Hi, I'm Chris.
 
-I've been doing full-stack development for 7 years.
+I've been doing full-stack development for 7 years or something.
 
-I design & build web applications that often times serve ML or LLM models for different tasks. I also handle infrastructure & DevOps, managing self-hosted services and cloud deployments. 
+I plan, design & build web applications. Sometimes they are for a personal project, sometimes they are for a client, sometimes they are just for fun. 
 
-I enjoy end-to-end ownership.
+I play with LLMs and have tried to find some more interesting use-cases for them than just basic ChatGPT wrappers.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/531efdbf-4874-402c-99f7-03c6aaddcff3" />
+I self-host most of my projects. I have a small home-lab cluster split across 3 physical locations.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/327132c4-cfe0-4d96-8def-46ddd88c002c" />
-
-### Technical Philosophy
+### Grug Mentality
 
 <img width="400" alt="Grug Brained Developer" src="https://github.com/user-attachments/assets/fcd5be1b-d0df-465f-a4b7-ae01f2bc35ed" />
 
 *complexity bad*
 
-I gravitate toward simpler, overlooked technologies that solve problems elegantly.
+I'm a big fan of underdog technologies with potential. I don't mind going against the grain.
 
-I'll choose [htmx](https://htmx.org/) over React, [Caddy](https://caddyserver.com/) over Nginx, [Tailscale](https://tailscale.com/) over classic VPN servers, and CSS-only solutions over JavaScript, when they fit.
+I'll choose [htmx](https://htmx.org/) over React, [Caddy](https://caddyserver.com/) over Nginx, [Tailscale](https://tailscale.com/) over classic VPN servers, and pure CSS solutions over JavaScript spaghetti.
 
-I focus obsessively on quality details. I've lost sleep over misaligned UI elements and unintuitive code architecture. This pushes me to constantly simplify and refactor.
+I focus obsessively on details. This's something I both love & hate about myself.
 
-Recently, I consolidated a web platform with 9 separate ML model servers into a single monolith, maintaining full functionality while reducing the codebase by ~80%. It felt nice.
-
-I get energized by challenging myself to transform complex -> simple.
+I like the challenge of turning complex -> simple.
 
 ## Personal Projects
 
@@ -64,6 +60,15 @@ Some of the roasts are corny, but it also spits gems at times:
 
 *Note: Still in development, expect bugs.*
 
+#### Expert Systems
+
+I spent a year building ML/LLM tools for drug discovery with a team from New Mexico, and even co-authored a paper with Prof. Tudor Oprea.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/531efdbf-4874-402c-99f7-03c6aaddcff3" />
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/327132c4-cfe0-4d96-8def-46ddd88c002c" />
+
+
 ## Speaking & Community
 
 
@@ -95,25 +100,16 @@ Played a game of Roast Roulette with 70 members from the audience.
 The game's first public debut.
 
 
-## Beyond Code
-
-While tech dominates my life, I do occasionally touch grass. 
-
-Here are some quick facts about me:
-- I've been (happily) married for **1 year**
-- My longest water fast was **6 days**
-- I can talk about nutrition for **3 hours** straight
-- I find the **Big Five Aspects** fascinating
-- I'm obsessed with an old & forgotten subgenre called **Intelligent Drum & Bass** (recently bought intelligentdnb.uk domain, still planning what to build)
-- I want to build something that outlasts me
-
-If it is technically feasible for a bunch of evolved monkeys to eventually create Artificial Superintelligence (ASI)... Then the reality of a higher intelligence (**God**) is beyond question for me.
-
+## Quick Facts
+- i believe in God
+- i love my wife & dog
+- i want to build something that outlasts me
+- i once fasted 5 days (water-only)
+- i listen to intelligent drum & bass while coding
+- i write most of my code like this:
 <a href="https://www.youtube.com/watch?v=MfTb7U9CfeA">
   <img width="200" alt="Workstation" src="https://github.com/user-attachments/assets/26f1bb09-9e0d-4db4-b352-7dd26a4a0af5" />
 </a>
-
-> This is how I happily spend the majority of my time
 
 ## Contact
 📧 Email: [contact@christiantanul.com](mailto:contact@christiantanul.com)
