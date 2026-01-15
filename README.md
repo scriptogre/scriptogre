@@ -1,92 +1,95 @@
 # Christian Tanul
 
-Hi, I'm Chris.
+I'm a full-stack developer with ~7 years of experience.
 
-I've been doing full-stack development for 7 years or something.
+I build stuff. Sometimes for clients, sometimes for myself, sometimes just to see if I can.
 
-I plan, design & build web applications. Sometimes they are for a personal project, sometimes they are for a client, sometimes they are just for fun. 
-
-I play with LLMs and have tried to find some more interesting use-cases for them than just basic ChatGPT wrappers.
-
-I self-host most of my projects. I have a small home-lab cluster split across 3 physical locations.
-
+I self-host most of my projects.
 
 ## Projects
 
+#### htmx
 
-#### **intreabalegea.ro**
+Core developer. Redesigned the [htmx 4 website](https://four.htmx.org), contributed the new `<hx-partial>` tag and built-in streaming integration.
 
-<a href="https://intreabalegea.ro"><img width="800" alt="Intreaba Legea Landing Page" src="https://github.com/user-attachments/assets/1094287c-7dc6-4ff0-a981-f325c48cd001" /></a>
+<img width="500" alt="htmx 4 website" src="htmx4.png" />
 
-[intreabalegea.ro](https://intreabalegea.ro) is an LLM-powered web app that provides legal guidance for Romanians. 
+#### hyper
 
-It started as a personal project to learn Golang, but it has grown into a team effort with 3 developers, which I continue to lead and maintain.
+Building a templating language for Python that compiles `.hyper` files (Python + HTML) via a Rust compiler. 
 
+Got components, slots, fragments, control flow, and more.
 
-#### **roastroulette.io**
-
-<a href="https://roastroulette.io"><img width="800" alt="Roast Roulette Landing Page" src="https://github.com/user-attachments/assets/30069578-866a-4e48-a82a-78af0436ff63" /></a>
-
-[roastroulette.io](https://roastroulette.io) is an [open-source](https://github.com/scriptogre/roast-roulette), hypermedia-driven, multiplayer party game where players upload photos to get roasted by an LLM. 
-
-I built this for fun, to play with friends during weekends. 
-
-Some of the roasts are corny, but it also spits gems at times:
-
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/6736f41d-8641-4f19-804e-a08d32e98e16" />
-
-*Note: Still in heavy development.*
-
+<img width="500" alt="Hyper Example" src="hyper.png" />
 
 #### Expert Systems
 
-I spent a year building ML/LLM tools professionally for a drug discovery research team from New Mexico, and even co-authored a paper with Prof. Tudor Oprea.
+Built ML/LLM tools for a drug discovery team in New Mexico, USA.
+
+Co-authored a paper with [Prof. Tudor Oprea](https://www.linkedin.com/in/tudorioprea).
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/531efdbf-4874-402c-99f7-03c6aaddcff3" />
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/327132c4-cfe0-4d96-8def-46ddd88c002c" />
 
+#### **intreabalegea.ro**
+
+Built an LLM-powered RAG tool to provide free legal guidance to Romanian citizens.
+
+Started as a Golang learning project.
+
+<a href="https://intreabalegea.ro"><img width="500" alt="Intreaba Legea Landing Page" src="https://github.com/user-attachments/assets/1094287c-7dc6-4ff0-a981-f325c48cd001" /></a>
+
+#### **roastroulette.io**
+
+Built an [open-source](https://github.com/scriptogre/roast-roulette) multiplayer party game. Upload photos, get roasted by an LLM. 
+
+Built to play with my friends during weekends.
+
+<a href="https://roastroulette.io"><img width="500" alt="Roast Roulette Landing Page" src="https://github.com/user-attachments/assets/30069578-866a-4e48-a82a-78af0436ff63" /></a>
+
+Spits gems at times:
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6736f41d-8641-4f19-804e-a08d32e98e16" />
+
 
 #### Homelab
 
-<img width="800" alt="HomeLab Devices" src="https://github.com/user-attachments/assets/7cb5f857-81d4-48a4-bd42-41ec7687ef70" />
+I'm a home lab nerd with a personal cloud: files, photos, calendar, DNS, media servers, etc. 
 
-> Synology DS923+ & Raspberry Pi 5 running from my cabinet
+Runs on several Synology NAS(es?), a ThinkCentre M90Q Gen 4, and a Raspberry Pi 5.
 
-I host my personal cloud: files, photos, calendar, contacts, along with DNS and media servers. 
+Saves money. Taught me sysadmin stuff. Made me a NixOS convert.
 
-I reduced a lot of money from subscription, learned a lot about system administration, and learned to appreciate the independence and privacy you get from self-hosting.
+<img width="400" alt="HomeLab Devices" src="https://github.com/user-attachments/assets/7cb5f857-81d4-48a4-bd42-41ec7687ef70" />
 
-I also ended up being a NixOS fanboy.
+### How I Work
 
-It's a time sink, but I enjoy most of that time.
+<img width="200" alt="Grug Brained Developer" src="https://github.com/user-attachments/assets/fcd5be1b-d0df-465f-a4b7-ae01f2bc35ed" />
 
+Mostly alone.
 
-### Grug Mentality
+[htmx](https://htmx.org/) over React, [Caddy](https://caddyserver.com/) over Nginx, [Tailscale](https://tailscale.com/) over classic VPNs. CSS over JS when possible.
 
-<img width="400" alt="Grug Brained Developer" src="https://github.com/user-attachments/assets/fcd5be1b-d0df-465f-a4b7-ae01f2bc35ed" />
+I like turning complex things simple.
 
-*complexity bad*
+## Talks
 
-I'm a big fan of underdog technologies with potential. I don't mind going against the grain.
+### Lightning Talk @ DjangoCon 2025: Roast Roulette Live Demo
 
-I'll choose [htmx](https://htmx.org/) over React, [Caddy](https://caddyserver.com/) over Nginx, [Tailscale](https://tailscale.com/) over classic VPN servers, and pure CSS solutions over JavaScript spaghetti.
+<img width="400" alt="DjangoCon 2025 Lightning Talk" src="https://github.com/user-attachments/assets/4f13c8d1-e6a6-4f48-8c7d-260b0fac31a2" />
 
-I focus obsessively on details. This's something I both love & hate about myself.
+Played a round of Roast Roulette with the audience.
 
-I like the challenge of turning complex -> simple.
-
-
-## Speaking & Community
-
+My Pi died, so I improvised and had 70 people connect directly to my MacBook (lol).
 
 ### Workshop @ DjangoCon 2024: Functional Chatbots
 
 <img width="400" alt="DjangoCon 2024 Workshop" src="https://github.com/user-attachments/assets/8c410a92-9756-43ad-8183-cc8b38c3c295" />
 
-Presented a workshop on connecting LLMs to web applications. 
+Workshop about connecting LLMs to web apps (using htmx).
 
-The workshop repository includes 2 months of preparation with multiple checkpoint branches and detailed instructions.
+Spent over 2 months preparing the repository. Check it out, if you're interested.
 
 - **Repository**: [github.com/scriptogre/functional-chatbots](http://github.com/scriptogre/functional-chatbots)
 - **Video**: [YouTube](https://www.youtube.com/watch?v=jtjMR47AAd8)
@@ -96,30 +99,26 @@ The workshop repository includes 2 months of preparation with multiple checkpoin
 
 <img width="400" alt="PyCON SK 2024 Lightning" src="https://github.com/user-attachments/assets/c06f9fb3-82e7-40e8-a305-eb2a6e408f54" />
 
-Presented how easily you can prototype a functional UI, even as a non-developer, using ChatGPT and [Streamlit](https://streamlit.io/).
+Lightning talk about prototyping with ChatGPT and Streamlit.
 
+## Etc.
 
-### Lightning Talk @ DjangoCon 2025: Roast Roulette Live Demo
+Believer, married & father (soon).
 
-<img width="400" alt="DjangoCon 2025 Lightning Talk" src="https://github.com/user-attachments/assets/4f13c8d1-e6a6-4f48-8c7d-260b0fac31a2" />
+Got a dog. She's a good girl.
 
-Played a game of Roast Roulette with 70 members from the audience.
+<img width="400" alt="Dog" src="dog.png" />
 
-The game's first public debut.
+Self-taught. Passionate about what I do, and I put my heart into all of it.
 
+Fun station:
 
-## Quick Facts
-- i believe in God
-- i love my wife & dog
-- i want to build something that outlasts me
-- i once fasted 5 days (water-only)
-- i listen to intelligent drum & bass while coding
-- i write most of my code like this:
 <a href="https://www.youtube.com/watch?v=MfTb7U9CfeA">
   <img width="200" alt="Workstation" src="https://github.com/user-attachments/assets/26f1bb09-9e0d-4db4-b352-7dd26a4a0af5" />
 </a>
 
 ## Contact
-📧 Email: [contact@christiantanul.com](mailto:contact@christiantanul.com)
 
-For my latest work or potential collaborations, feel free to reach out.
+📧 [contact@christiantanul.com](mailto:contact@christiantanul.com)
+
+Feel free to reach out.
