@@ -14,7 +14,7 @@ Recreated the [htmx website](https://four.htmx.org), contributed the `<hx-partia
 
 #### hyper
 
-Building a templating language that combines Python & HTML.
+Building a templating language that combines Python & HTML (+ type safety).
 
 <img width="500" alt="Hyper Example" src="hyper.png" />
 
