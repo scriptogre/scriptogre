@@ -10,7 +10,7 @@ I self-host most of my projects.
 
 #### htmx
 
-Core developer. Redesigned the [htmx 4 website](https://four.htmx.org), contributed the new `<hx-partial>` tag and built-in streaming integration.
+Redesigned the [website](https://four.htmx.org), contributed the `<hx-partial>` tag and built-in SSE support.
 
 <img width="500" alt="htmx 4 website" src="htmx4.png" />
 
