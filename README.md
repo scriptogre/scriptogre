@@ -2,9 +2,7 @@
 
 I'm a full-stack developer with ~7 years of experience.
 
-I build stuff. Sometimes for clients, sometimes for myself, sometimes just to see if I can.
-
-I self-host most of my projects.
+I build stuff: sometimes for clients, sometimes just to see if I can.
 
 ## Projects
 
@@ -51,7 +49,9 @@ Spits gems at times:
 
 #### Homelab
 
-I host a personal cloud: files, photos, calendar, DNS, media servers, etc. 
+I host a personal cloud: files, photos, calendar, DNS, media servers, etc.
+
+I also self-host most of my projects.
 
 Saves money. Taught me sysadmin stuff. Made me a NixOS convert.
 
