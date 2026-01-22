@@ -32,17 +32,15 @@ Co-authored a paper with [Prof. Tudor Oprea](https://www.linkedin.com/in/tudorio
 
 #### **intreabalegea.ro**
 
-Built a RAG tool for free legal guidance to Romanian citizens.
-
-Started as a Golang learning project.
+Built a RAG tool for free (Romanian) legal guidance.
 
 <a href="https://intreabalegea.ro"><img width="500" alt="Intreaba Legea Landing Page" src="https://github.com/user-attachments/assets/1094287c-7dc6-4ff0-a981-f325c48cd001" /></a>
 
 #### **roastroulette.io**
 
-Built an [open-source](https://github.com/scriptogre/roast-roulette) multiplayer party game. Upload photos, get roasted by an LLM. 
+Built an [multiplayer party game](https://github.com/scriptogre/roast-roulette) (using htmx). Upload photos, get roasted by an LLM. 
 
-Built to play with my friends during weekends.
+Wanted something fun to play with the group during weekends.
 
 <a href="https://roastroulette.io"><img width="500" alt="Roast Roulette Landing Page" src="https://github.com/user-attachments/assets/30069578-866a-4e48-a82a-78af0436ff63" /></a>
 
@@ -53,9 +51,7 @@ Spits gems at times:
 
 #### Homelab
 
-I'm a home lab nerd with a personal cloud: files, photos, calendar, DNS, media servers, etc. 
-
-Runs on several Synology NAS(es?), a ThinkCentre M90Q Gen 4, and a Raspberry Pi 5.
+I host a personal cloud: files, photos, calendar, DNS, media servers, etc. 
 
 Saves money. Taught me sysadmin stuff. Made me a NixOS convert.
 
@@ -79,7 +75,7 @@ I like turning complex things simple.
 
 Played a round of Roast Roulette with the audience.
 
-My Pi died, so I improvised and had 70 people connect directly to my MacBook (lol).
+My Pi died, so I had 70 people connect directly to my MacBook (lol).
 
 ### Workshop @ DjangoCon 2024: Functional Chatbots
 
