@@ -8,7 +8,7 @@ I build stuff: sometimes for clients, sometimes just to see if I can.
 
 #### htmx
 
-Redesigned the [website](https://four.htmx.org), contributed the `<hx-partial>` tag and built-in SSE support.
+Recreated the [htmx website](https://four.htmx.org), contributed the `<hx-partial>` tag and built-in SSE support.
 
 <img width="500" alt="htmx 4 website" src="htmx4.png" />
 
