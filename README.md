@@ -73,7 +73,7 @@ I like turning complex things simple.
 
 <img width="400" alt="DjangoCon 2025 Lightning Talk" src="https://github.com/user-attachments/assets/4f13c8d1-e6a6-4f48-8c7d-260b0fac31a2" />
 
-Played a round of Roast Roulette with the audience.
+Played Roast Roulette with the audience.
 
 My Pi died, so I had 70 people connect directly to my MacBook (lol).
 
@@ -81,9 +81,9 @@ My Pi died, so I had 70 people connect directly to my MacBook (lol).
 
 <img width="400" alt="DjangoCon 2024 Workshop" src="https://github.com/user-attachments/assets/8c410a92-9756-43ad-8183-cc8b38c3c295" />
 
-Workshop about connecting LLMs to web apps (using htmx).
+Presented a workshop on connecting LLMs to web apps (using htmx).
 
-Spent over 2 months preparing the repository. Check it out, if you're interested.
+Check it out, if you're interested.
 
 - **Repository**: [github.com/scriptogre/functional-chatbots](http://github.com/scriptogre/functional-chatbots)
 - **Video**: [YouTube](https://www.youtube.com/watch?v=jtjMR47AAd8)
@@ -93,9 +93,9 @@ Spent over 2 months preparing the repository. Check it out, if you're interested
 
 <img width="400" alt="PyCON SK 2024 Lightning" src="https://github.com/user-attachments/assets/c06f9fb3-82e7-40e8-a305-eb2a6e408f54" />
 
-Lightning talk about prototyping with ChatGPT and Streamlit.
+Presented a lightning talk about prototyping with ChatGPT and Streamlit.
 
-## Etc.
+## Other
 
 Believer, married & father (soon).
 
@@ -103,9 +103,9 @@ Got a dog. She's a good girl.
 
 <img width="400" alt="Dog" src="dog.png" />
 
-Self-taught. Passionate about what I do, and I put my heart into all of it.
+Passionate about what I do, and I put my heart into all of it.
 
-Fun station:
+This is my workstation:
 
 <a href="https://www.youtube.com/watch?v=MfTb7U9CfeA">
   <img width="200" alt="Workstation" src="https://github.com/user-attachments/assets/26f1bb09-9e0d-4db4-b352-7dd26a4a0af5" />
