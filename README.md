@@ -16,9 +16,7 @@ Core developer. Redesigned the [htmx 4 website](https://four.htmx.org), contribu
 
 #### hyper
 
-Building a templating language for Python that compiles `.hyper` files (Python + HTML) via a Rust compiler. 
-
-Got components, slots, fragments, control flow, and more.
+Building a templating language that combines Python & HTML.
 
 <img width="500" alt="Hyper Example" src="hyper.png" />
 
@@ -34,7 +32,7 @@ Co-authored a paper with [Prof. Tudor Oprea](https://www.linkedin.com/in/tudorio
 
 #### **intreabalegea.ro**
 
-Built an LLM-powered RAG tool to provide free legal guidance to Romanian citizens.
+Built a RAG tool for free legal guidance to Romanian citizens.
 
 Started as a Golang learning project.
 
