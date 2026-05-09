@@ -1,6 +1,6 @@
 # Christian Tanul
 
-I'm (mainly) a full-stack developer with ~7 years of experience.
+I'm (mainly) a full-stack developer with ~8 years of experience.
 
 ## Projects
 
