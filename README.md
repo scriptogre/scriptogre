@@ -64,6 +64,18 @@ I also built YET ANOTHER multiplayer party game (using htmx 😎) where you can 
 
 <img width="300" alt="Roast Roulette joke" src="https://github.com/user-attachments/assets/6736f41d-8641-4f19-804e-a08d32e98e16" />
 
+#### drefs ([try it out](https://github.com/scriptogre/drefs))
+
+I also built a small `uvx` tool to cross-reference check Python docstrings (damn, that's nerdy 🥱).
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/scriptogre/drefs/raw/main/assets/benchmark-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/scriptogre/drefs/raw/main/assets/benchmark-light-v3.svg">
+  <img alt="Shows a bar chart with benchmark results." src="https://github.com/scriptogre/drefs/raw/main/assets/benchmark-light-v3.svg" style="visibility: visible; max-width: 100%;">
+</picture>
+
+I just wanted to be able to put `[Class](path.to.Class)` in a Python docstring and know it won't drift out of sync when I rename `Class`.
+
 #### Homelab
 
 I love wasting time on my homelab. I keep my own cloud and self-host most of my projects.
