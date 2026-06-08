@@ -2,13 +2,13 @@
 
 I'm a software developer with ~8 years of experience.
 
-<img width="300" alt="luna" src="https://github.com/user-attachments/assets/ea997841-264f-4526-a6fb-96aed6998310" />
+<img width="300" alt="me and luna" src="https://github.com/user-attachments/assets/8e9b68bd-a33f-4448-92a4-f1d3795ce92b" />
 
 #### htmx
 
 I'm a core contributor to [htmx](https://github.com/bigskysoftware/htmx).
 
-<img width="500" alt="htmx 4 website" src="https://github.com/user-attachments/assets/82219e8b-84df-43ec-a0ef-680bc602ba1c" />
+<img width="500" alt="htmx 4 landing page" src="https://github.com/user-attachments/assets/0ef4e57f-e7cc-4ee2-8dc3-ca5a5966cb6d" />
 
 I brought the [new website](https://four.htmx.org), the new `<hx-partial>` tag, and better real-time (WS/SSE) integration.
 
@@ -16,7 +16,7 @@ I brought the [new website](https://four.htmx.org), the new `<hx-partial>` tag, 
 
 I built a templating engine that enables writing a minimalist Python + HTML syntax.
 
-<img width="500" alt="Hyper Example" src="hyper.png" />
+<img width="500" alt="Hyper Example" src="https://github.com/user-attachments/assets/c371866e-d67a-4cff-beaf-d8de5e295e19" />
 
 It's my small passion project, something I always wanted in Python: server-side type-safe components with a modern DX. 
 
