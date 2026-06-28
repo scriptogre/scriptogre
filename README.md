@@ -22,6 +22,20 @@ It's my small passion project, something I always wanted in Python: server-side 
 
 It uses a Rust transpiler that turns `.hyper` files into ready to import Python functions. It also comes with proper tooling via IDE plugins.
 
+#### Expert Systems
+
+I've worked on ML/LLM tools for a drug discovery team in New Mexico, USA, and co-authored a paper with [Prof. Tudor Oprea](https://www.linkedin.com/in/tudorioprea).
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/531efdbf-4874-402c-99f7-03c6aaddcff3" />
+
+#### GnomeSys
+
+Built an LLM platform for drug repurposing research — connects to six biomedical databases (DrugCentral, Open Targets, AACT trials, etc.) through autonomous tool calling.
+
+Includes an interactive knowledge graph for exploring drug-target-disease chains.
+
+<img width="500" alt="GnomeSys knowledge graph" src="gnomesys.png" />
+
 #### intreabalegea.ro ([try it out](https://staging.intreabalegea.ro))
 
 I'm building an open-source [public dataset of Romanian laws](https://github.com/scriptogre/romanian-law-data), and an [LLM platform](https://staging.intreabalegea.ro) that uses it as a foundation.
@@ -84,20 +98,6 @@ I love wasting time on my homelab. I keep my own cloud and self-host most of my 
 <img width="400" alt="homelab" src="https://github.com/user-attachments/assets/61bdc5f5-9b56-4f89-8f42-c156ed8c1a29" />
 
 It saved me money, and made me both love & hate NixOS.
-
-#### Expert Systems
-
-I've worked on ML/LLM tools for a drug discovery team in New Mexico, USA, and co-authored a paper with [Prof. Tudor Oprea](https://www.linkedin.com/in/tudorioprea).
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/531efdbf-4874-402c-99f7-03c6aaddcff3" />
-
-#### GnomeSys
-
-Built an LLM platform for drug repurposing research — connects to six biomedical databases (DrugCentral, Open Targets, AACT trials, etc.) through autonomous tool calling.
-
-Includes an interactive knowledge graph for exploring drug-target-disease chains.
-
-<img width="500" alt="GnomeSys knowledge graph" src="gnomesys.png" />
 
 ## Talks
 
