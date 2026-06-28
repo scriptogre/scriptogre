@@ -38,7 +38,7 @@ It is freely available for Romanian citizens.
 
 I'm working on a multiplayer roguelite game running in the browser (using WASM).
 
-<img width="500" alt="wasm fantasia" src="https://github.com/user-attachments/assets/e1182eb1-bc7b-43da-93ab-e51b36979e69" />
+<img width="500" alt="wasm-fantasia" src="https://github.com/user-attachments/assets/88e31919-29d4-4be9-a0d6-c0a2d2919d38" />
 
 It uses [SpacetimeDB](https://spacetimedb.com/) for the (authoritative) server-side & [Bevy](https://bevy.org/) for the client-side.
 
