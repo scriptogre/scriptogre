@@ -28,7 +28,7 @@ I've worked on ML/LLM tools for a drug discovery team in New Mexico, USA, and co
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/531efdbf-4874-402c-99f7-03c6aaddcff3" />
 
-#### GnomeSys
+#### GnomeSys ([try it out](https://platform.gnomesys.com))
 
 I built an LLM platform to augment researchers in drug hunting.
 
