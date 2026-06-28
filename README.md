@@ -30,11 +30,12 @@ I've worked on ML/LLM tools for a drug discovery team in New Mexico, USA, and co
 
 #### GnomeSys
 
-Built an LLM platform for drug repurposing research — connects to six biomedical databases (DrugCentral, Open Targets, AACT trials, etc.) through autonomous tool calling.
+I built an LLM platform to augment researchers in drug hunting.
 
-Includes an interactive knowledge graph for exploring drug-target-disease chains.
+<img width="500" alt="GnomeSys Landing Page" src="https://github.com/user-attachments/assets/0b6e38ba-2740-4afc-b31e-ed6008530849" />
+<img width="500" alt="GnomeSys Knowledge Graph" src="https://github.com/user-attachments/assets/8986103a-8635-4018-bc83-ac4ea0d7fda8" />
 
-<img width="500" alt="GnomeSys knowledge graph" src="gnomesys.png" />
+It connects to 6 biomedical databases and implements knowledge graphs that the LLM can access/update across user sessions.
 
 #### intreabalegea.ro ([try it out](https://staging.intreabalegea.ro))
 
