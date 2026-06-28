@@ -66,7 +66,9 @@ I also built YET ANOTHER multiplayer party game (using htmx 😎) where you can 
 
 #### drefs ([try it out](https://github.com/scriptogre/drefs))
 
-I also built a small `uvx` tool to cross-reference check Python docstrings (damn, that's nerdy 🥱).
+I also built a small `uvx` tool to cross-reference check Python docstrings
+
+_When read out loud, this sounds nerdier than I had imagined..._
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/scriptogre/drefs/raw/main/assets/benchmark-dark-v3.svg">
