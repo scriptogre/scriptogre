@@ -30,7 +30,13 @@ Co-authored a paper with [Prof. Tudor Oprea](https://www.linkedin.com/in/tudorio
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/531efdbf-4874-402c-99f7-03c6aaddcff3" />
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/327132c4-cfe0-4d96-8def-46ddd88c002c" />
+#### GnomeSys
+
+Built an LLM platform for drug repurposing research — connects to six biomedical databases (DrugCentral, Open Targets, AACT trials, etc.) through autonomous tool calling.
+
+Includes an interactive knowledge graph for exploring drug-target-disease chains.
+
+<img width="500" alt="GnomeSys knowledge graph" src="gnomesys.png" />
 
 #### **intreabalegea.ro**
 
