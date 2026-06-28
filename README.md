@@ -61,8 +61,7 @@ It might feel laggy until I add client-side prediction.
 I also built YET ANOTHER multiplayer party game (using htmx 😎) where you can upload photos and get roasted by an LLM. 
 
 <img width="400" alt="Roast Roulette landing page" src="https://github.com/user-attachments/assets/30069578-866a-4e48-a82a-78af0436ff63" />
-
-<img width="300" alt="Roast Roulette joke" src="https://github.com/user-attachments/assets/6736f41d-8641-4f19-804e-a08d32e98e16" />
+<img width="300" alt="Roast Roulette Joke" src="https://github.com/user-attachments/assets/6da09986-43bd-463d-86b3-0596261bfb83" />
 
 #### drefs ([try it out](https://github.com/scriptogre/drefs))
 
@@ -108,7 +107,7 @@ Stay tuned 😃
 
 I presented (& played) Roast Roulette with the audience at DjangoCon 2025.
 
-<img width="400" alt="DjangoCon 2025 Lightning Talk" src="https://github.com/user-attachments/assets/4f13c8d1-e6a6-4f48-8c7d-260b0fac31a2" />
+<img width="400" alt="DjangoCon 2025" src="https://github.com/user-attachments/assets/21803c5a-c42a-4daf-ad9e-d5cd55305e26" />
 
 My Pi died, so I had 70 people connect directly to my MacBook (lol).
 
@@ -127,7 +126,7 @@ Check it out, if you're interested.
 
 I presented a brief lightning talk about prototyping with ChatGPT & Streamlit at PyCON SK 2024.
 
-<img width="400" alt="PyCON SK 2024 Lightning" src="https://github.com/user-attachments/assets/c06f9fb3-82e7-40e8-a305-eb2a6e408f54" />
+<img width="400" alt="PyCON SK 2024 Lightning" src="https://github.com/user-attachments/assets/77d09577-7e45-4d6d-8a03-7680ccb6dbb4" />
 
 ## Other
 
