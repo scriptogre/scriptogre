@@ -100,7 +100,7 @@ I've worked on ML/LLM tools for a drug discovery team in New Mexico, USA, and co
 
 I will be giving a talk at Big Sky Dev Con 2026 called **Real-Time Hypermedia (the htmx way)**.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/7e2da6d0-ece2-4a3f-8072-c0e3e0c298c0" />
+<img width="500" alt="Big Sky Dev Con 2026" src="https://github.com/user-attachments/assets/7352b711-4d1e-4134-8157-ef4a4d4c2858" />
 
 Stay tuned 😃
 
@@ -116,7 +116,7 @@ My Pi died, so I had 70 people connect directly to my MacBook (lol).
 
 I presented a workshop on connecting LLMs to web apps at DjangoCon 2024.
 
-<img width="400" alt="DjangoCon 2024 Workshop" src="https://github.com/user-attachments/assets/8c410a92-9756-43ad-8183-cc8b38c3c295" />
+<img  width="400" alt="DjangoCon 2024 Workshop" src="https://github.com/user-attachments/assets/1d38a1e4-7b99-4c01-af65-0721dd197927" />
 
 Check it out, if you're interested.
 
@@ -136,14 +136,14 @@ I'm a christian, a husband, and (soon) a father.
 I'm also Luna's father 🐶.
 
 <img width="300" alt="carson-tweet" src="https://github.com/user-attachments/assets/6327653c-d57c-4781-8d78-5ffe205aceb0" />
-<img width="200" alt="board-of-directors" src="https://github.com/user-attachments/assets/ba78650a-32d6-4433-b660-e47d85e01b12" />
+<img width="200" alt="board-of-directors" src="https://github.com/user-attachments/assets/71a76788-8c04-413b-aea8-c3cdbe7ff2b2" />
 
 I'm passionate about what I do, and I put my heart into it.
 
 This is where I spend most of my hours:
 
 <a href="https://www.youtube.com/watch?v=MfTb7U9CfeA">
-  <img width="200" alt="Workstation" src="https://github.com/user-attachments/assets/26f1bb09-9e0d-4db4-b352-7dd26a4a0af5" />
+  <img width="200" alt="Workstation" src="https://github.com/user-attachments/assets/b601d7d3-ed95-4ff4-9664-2c921b06f3aa" />
 </a>
 
 ## Contact
