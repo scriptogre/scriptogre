@@ -14,13 +14,11 @@ I brought the [new website](https://four.htmx.org), the new `<hx-partial>` tag, 
 
 #### hyper ([try it out](https://github.com/scriptogre/hyper))
 
-I built a templating engine that enables writing a minimalist Python + HTML syntax.
+I built a custom Python + HTML file format, powered by Rust.
 
 <img width="500" alt="Hyper Example" src="https://github.com/user-attachments/assets/c371866e-d67a-4cff-beaf-d8de5e295e19" />
 
-It's my small passion project, something I always wanted in Python: server-side type-safe components with a modern DX. 
-
-It uses a Rust transpiler that turns `.hyper` files into ready to import Python functions. It also comes with proper tooling via IDE plugins.
+It enables server-side type-safe components with a modern DX, and includes IDE tooling.
 
 #### Expert Systems
 
@@ -35,7 +33,7 @@ I built an LLM platform to augment researchers in drug hunting.
 <img width="500" alt="GnomeSys Landing Page" src="https://github.com/user-attachments/assets/0b6e38ba-2740-4afc-b31e-ed6008530849" />
 <img width="500" alt="GnomeSys Knowledge Graph" src="https://github.com/user-attachments/assets/8986103a-8635-4018-bc83-ac4ea0d7fda8" />
 
-It connects to 6 biomedical databases and implements knowledge graphs that the LLM can access/update across user sessions.
+Connects LLMs to six biomedical databases with a cross-session knowledge graph.
 
 #### intreabalegea.ro ([try it out](https://staging.intreabalegea.ro))
 
